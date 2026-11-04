@@ -1,0 +1,14 @@
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\obj\Debug\net10.0\LanghamHotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\obj\Debug\net10.0\LanghamHotelManagement.AssemblyInfoInputs.cache
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\obj\Debug\net10.0\LanghamHotelManagement.AssemblyInfo.cs
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\obj\Debug\net10.0\LanghamHotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\bin\Debug\net10.0\LanghamHotelManagement.exe
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\bin\Debug\net10.0\LanghamHotelManagement.deps.json
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\bin\Debug\net10.0\LanghamHotelManagement.runtimeconfig.json
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\bin\Debug\net10.0\LanghamHotelManagement.dll
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\bin\Debug\net10.0\LanghamHotelManagement.pdb
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\obj\Debug\net10.0\LanghamHotelManagement.dll
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\obj\Debug\net10.0\refint\LanghamHotelManagement.dll
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\obj\Debug\net10.0\LanghamHotelManagement.pdb
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\obj\Debug\net10.0\LanghamHotelManagement.genruntimeconfig.cache
+C:\Users\anjal\Downloads\C#\LanghamHotelManagement\obj\Debug\net10.0\ref\LanghamHotelManagement.dll
